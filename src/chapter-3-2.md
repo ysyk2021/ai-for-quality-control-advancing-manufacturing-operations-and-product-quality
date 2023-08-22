@@ -1,5 +1,4 @@
-Evaluating data availability and quality
-=========================================================================================================================
+
 
 In this chapter, we will explore how to prepare your organization for AI implementation in quality control. Specifically, we will focus on evaluating data availability and quality.
 

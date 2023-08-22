@@ -1,5 +1,4 @@
-Overview of AI Applications for Resource Allocation and Planning
-================================================================================================================================================
+
 
 In addition to improving defect detection and prevention, Artificial Intelligence (AI) can also be used to optimize resource allocation and planning in manufacturing operations. In this chapter, we will provide an overview of different AI applications for resource allocation and planning.
 

@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Quality Control
-===========================================================================
+
 
 Artificial Intelligence (AI) has become an increasingly popular tool for improving quality control processes in manufacturing operations. However, choosing the right AI tools and technologies for quality control can be a challenging task. In this chapter, we will discuss an overview of AI tools and technologies for quality control, key factors to consider when choosing AI tools, and case studies of successful AI implementations in quality control.
 

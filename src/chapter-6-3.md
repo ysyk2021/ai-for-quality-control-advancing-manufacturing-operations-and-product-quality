@@ -1,5 +1,4 @@
-Case Studies of Successful AI Implementations in Defect Detection and Prevention
-===============================================================================================================================================================
+
 
 Defect detection and prevention are critical aspects of quality control in manufacturing operations. With the help of artificial intelligence (AI), manufacturers can achieve more effective defect detection and prevention, reducing costs and improving product quality. In this chapter, we will explore case studies of successful AI implementations in defect detection and prevention.
 

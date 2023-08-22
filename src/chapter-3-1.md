@@ -1,5 +1,4 @@
-Assessing your organization's needs and goals for AI implementation
-====================================================================================================================================================
+
 
 In this chapter, we will explore how to assess your organization's needs and goals for AI implementation in quality control. By understanding these needs and goals, organizations can select AI tools and technologies that are best suited to their specific needs and effectively leverage AI to advance manufacturing operations and product quality.
 

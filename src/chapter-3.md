@@ -1,5 +1,4 @@
-Chapter 2: Preparing Your Organization for AI Implementation in Quality Control
-===============================================================================
+
 
 Artificial intelligence (AI) has the potential to revolutionize quality control in manufacturing operations. However, successful implementation of AI requires careful preparation and planning. In this chapter, we will explore important considerations for preparing your organization for AI implementation in quality control.
 

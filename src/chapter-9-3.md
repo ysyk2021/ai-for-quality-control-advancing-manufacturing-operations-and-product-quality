@@ -1,5 +1,4 @@
-Legal and Regulatory Considerations for AI Implementation in Quality Control
-=====================================================================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in manufacturing operations, it is important to consider legal and regulatory considerations for AI implementation in quality control. In this chapter, we will explore the legal and regulatory landscape for AI in quality control and discuss strategies for ensuring compliance.
 

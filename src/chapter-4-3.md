@@ -1,5 +1,4 @@
-Case studies of successful AI implementations in quality control
-=============================================================================================================================================
+
 
 In this chapter, we will explore how to choose the right AI tools and technologies for quality control. We will also examine case studies of successful AI implementations in quality control.
 

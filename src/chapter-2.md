@@ -1,5 +1,4 @@
-Chapter 1: Understanding AI for Quality Control
-===============================================
+
 
 Artificial intelligence (AI) is having a profound impact on quality control in manufacturing operations. In this chapter, we will provide an overview of AI for quality control, including its definition, types of AI used, and benefits for improving manufacturing operations and product quality.
 

@@ -1,5 +1,4 @@
-Using AI Algorithms for Data Analysis and Pattern Recognition in Quality Control
-======================================================================================================================================================
+
 
 Artificial intelligence (AI) algorithms can analyze vast amounts of data to identify patterns and anomalies, making them a powerful tool for quality control in manufacturing operations. In this chapter, we will explore how to collect and analyze data using AI algorithms for quality control.
 

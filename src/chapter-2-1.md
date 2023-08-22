@@ -1,5 +1,4 @@
-Definition of AI
-=================================================================
+
 
 Artificial intelligence (AI) is a rapidly evolving field with an increasing impact on quality control in manufacturing operations. In this chapter, we will provide a definition of AI and explore its applications in quality control.
 

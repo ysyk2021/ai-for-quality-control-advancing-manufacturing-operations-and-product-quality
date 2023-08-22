@@ -1,5 +1,4 @@
-Assessing the Effectiveness of AI for Quality Control
-====================================================================================================================
+
 
 Artificial intelligence (AI) has the potential to transform quality control processes in manufacturing operations, but it is important to assess its effectiveness in delivering the expected benefits. In this chapter, we will explore how to assess the effectiveness of AI for quality control and identify strategies for improving its performance.
 

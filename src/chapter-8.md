@@ -1,5 +1,4 @@
-Chapter 7: Measuring AI Impact on Quality Control Performance
-=============================================================
+
 
 Quality control is a critical component of any manufacturing operation. As technology continues to advance, Artificial Intelligence (AI) has become an increasingly popular tool for improving quality control processes. However, it is essential to assess the effectiveness of AI for quality control to ensure that it is providing the desired results. In this chapter, we will discuss how to measure the impact of AI on quality control performance and identify areas for improvement.
 

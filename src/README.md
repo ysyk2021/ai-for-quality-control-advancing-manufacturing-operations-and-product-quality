@@ -1,4 +1,4 @@
-# Introduction
+
 
 Quality control is an essential component of modern manufacturing operations that ensures products meet or exceed customer expectations. Over the years, various methods have been used to detect defects and prevent them from occurring in manufacturing processes. However, with the advent of artificial intelligence (AI), new opportunities for advancing quality control in manufacturing have emerged.
 

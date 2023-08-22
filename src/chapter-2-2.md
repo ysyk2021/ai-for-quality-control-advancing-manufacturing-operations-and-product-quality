@@ -1,5 +1,4 @@
-Types of AI used for quality control in manufacturing
-======================================================================================================
+
 
 Artificial Intelligence (AI) is a rapidly developing technology that has the potential to revolutionize quality control processes in manufacturing operations. In this chapter, we will provide an overview of AI for quality control and discuss the different types of AI used in manufacturing.
 

@@ -1,5 +1,4 @@
-Chapter 8: AI Ethics and Governance for Quality Control
-=======================================================
+
 
 In this chapter, we will explore the ethical considerations, governance frameworks, and legal and regulatory considerations related to AI implementation in quality control.
 

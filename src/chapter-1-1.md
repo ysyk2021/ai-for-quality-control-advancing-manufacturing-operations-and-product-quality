@@ -1,5 +1,4 @@
-Why AI is Important for Quality Control in Manufacturing
-======================================================================
+
 
 Quality control is critical for ensuring that products meet customer expectations and comply with industry standards. However, traditional quality control methods can be time-consuming, error-prone, and may not detect all defects or problems. This is where AI comes in.
 

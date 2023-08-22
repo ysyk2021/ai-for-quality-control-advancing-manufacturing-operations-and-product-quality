@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Quality Control
-======================================================================================================================================
+
 
 Choosing the right artificial intelligence (AI) tools and technologies is essential for successful implementation of quality control in manufacturing operations. In this chapter, we will provide an overview of different AI tools and technologies that are commonly used for quality control.
 

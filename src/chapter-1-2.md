@@ -1,5 +1,4 @@
-Overview of the Book's Content
-============================================
+
 
 In this book, we will explore the many ways in which AI can be used to advance quality control in manufacturing operations and improve product quality. We will cover a range of topics related to AI for quality control, including:
 

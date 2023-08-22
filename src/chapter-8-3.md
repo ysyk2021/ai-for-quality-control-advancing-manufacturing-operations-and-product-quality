@@ -1,5 +1,4 @@
-Continuously Adapting and Improving Your AI Approach for Quality Control
-=======================================================================================================================================
+
 
 In this chapter, we will explore how organizations can measure the impact of AI on quality control performance and continuously adapt and improve their approach to AI implementation.
 

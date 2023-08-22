@@ -1,5 +1,4 @@
-Importance of data collection and analysis for quality improvement
-========================================================================================================================================
+
 
 In this chapter, we will explore the importance of data collection and analysis for quality improvement in manufacturing operations. By collecting and analyzing data on product defects and production processes, organizations can identify patterns and root causes of quality issues and take corrective action to improve product quality.
 

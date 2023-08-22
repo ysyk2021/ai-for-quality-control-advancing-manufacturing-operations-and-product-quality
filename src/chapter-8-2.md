@@ -1,5 +1,4 @@
-Identifying Areas for Improvement and Refinement
-===============================================================================================================
+
 
 Artificial intelligence (AI) has the potential to transform quality control processes in manufacturing operations, but it is important to measure its impact on performance to ensure that it is delivering the expected benefits. In this chapter, we will explore how to measure the impact of AI on quality control performance and identify areas for improvement and refinement.
 

@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-======================================================================================================================
+
 
 As artificial intelligence (AI) becomes more prevalent in manufacturing operations, it is essential to ensure that it is used responsibly and ethically. In this chapter, we will explore the importance of AI ethics and governance for quality control, and discuss strategies for developing governance frameworks to ensure responsible AI use.
 

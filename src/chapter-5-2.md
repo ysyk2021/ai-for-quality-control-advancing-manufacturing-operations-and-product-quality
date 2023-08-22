@@ -1,5 +1,4 @@
-Best Practices for Data Collection and Preparation
-========================================================================================================================
+
 
 Collecting and analyzing data is a critical aspect of implementing artificial intelligence (AI) for quality control in manufacturing operations. In this chapter, we will explore best practices for data collection and preparation to ensure successful implementation of AI for quality control.
 
