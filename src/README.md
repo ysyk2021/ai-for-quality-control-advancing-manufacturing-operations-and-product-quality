@@ -9,3 +9,7 @@ The book is divided into several chapters that cover different aspects of AI for
 By reading this book, you will gain a deeper understanding of how AI can be applied to quality control in manufacturing operations, and learn strategies for implementing AI in your own organization. Whether you are a quality control professional, a manufacturing manager, or a researcher interested in the intersection of AI and quality control, this book provides valuable insights and practical guidance for leveraging AI to improve product quality and optimize manufacturing operations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
